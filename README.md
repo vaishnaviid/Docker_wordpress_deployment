@@ -1,4 +1,4 @@
-#  Deploy WordPress + MySQL with Docker
+# WordPress + MySQL with Docker Deployment
 
 This project demonstrates how to deploy **WordPress** with a **MySQL** database using Docker.  
 The setup runs two containers:
