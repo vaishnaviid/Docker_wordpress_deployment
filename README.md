@@ -75,7 +75,7 @@ select * from wp_posts;
 
 This displays WordPress posts/pages created in the site.
 
-### 5. Outcome
+### 5. Outcomes
 - WordPress site accessible via browser
 - Data persisted in MySQL database (wordpressdb)
 - Verified by checking WordPress tables
